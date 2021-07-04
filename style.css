@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin-top: 30px;
+}
+.self-introduction{
+    display: flex;
+    width: 90%;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 50px;
+}
+.header-panel{
+   text-decoration: none;
+   background-image: linear-gradient(tomato, orange);
+   padding: 10px 30px;
+   border-radius: 6px;
+   color: white;
+   font-weight: 700;
+   margin-left: 20px;
+   margin-top: 10px;
+   box-shadow: 10px 20px 60px gray;
+   border: 1px solid rgb(0, 204, 255);
+}
+.my_image{
+    width: 40%;
+    margin-left: 80px;
+}
+.top-banner{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.top-banner p{
+    text-align: justify;
+}
+#welcome-color{
+    color: rgb(181, 1, 226);
+    font-style: italic;
+}
+#kingdom-color{
+    color: rgb(0, 183, 255);
+}
+.hireme-button{
+   text-decoration: none;
+   background-image: linear-gradient(rgb(19, 200, 245), rgb(41, 41, 255));
+   padding: 10px 30px;
+   border-radius: 6px;
+   color: white;
+   font-weight: 700;
+   margin-left: 300px;
+   box-shadow: 10px 20px 40px gray;
+}
+.image-goal{
+    margin-top: 250px;
+}
+.middle-section{
+    margin-top: 250px;
+    margin-left: 150px;
+}
+.middle-section p{
+    text-align: justify;
+}
